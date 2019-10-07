@@ -1,0 +1,14 @@
+.shadow {
+  box-shadow: 0 1px 2px 0 #ccc;
+}
+.divider {
+  border-style: solid;
+  border-width: 0 1px 0 1px;
+  border-color: transparent #bbbbbb transparent #ffffff;
+}
+.gradient {
+  background: linear-gradient(top, #f1f1f1 0%, #cbcbcb 515, #e1e1e1 100%);
+}
+.hovereffect {
+  background: linear-gradient(top, #cbcbcb 0%, #bababa 50%, #aaaaaa 51%, #c7c7c7 100%);
+}
